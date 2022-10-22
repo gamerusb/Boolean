@@ -19,6 +19,9 @@ public class Boolean1 {
         }else if (a == 0){
             System.out.println("ноль");
         }
+        else {
+            System.out.println(1);
+        }
 
     }
 }
