@@ -33,5 +33,4 @@ public class Boolean2 {
             System.out.println("нечетное трехзначное число");
         }
     }
-
 }
